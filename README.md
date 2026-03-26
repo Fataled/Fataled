@@ -29,7 +29,6 @@ I'm a student developer who likes building things that are actually useful. I en
 
 - 🏆 Hyper competitive — if I'm doing something, I'm trying to win
 - 🔁 When I get into something, I go all in — full hyperfixation mode
-- 🔍 Perfectionist — if it's worth doing, it's worth doing right
 - 🎯 Perfectionist — if it's not done right, it's not done
 - 😴 Sleep is a hobby and I stand by that
 
