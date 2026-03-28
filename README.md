@@ -7,6 +7,7 @@ I'm a student developer who likes building things that are actually useful. I en
 - 🎵 **Song Recommendation System** — audio feature extraction with Essentia, similarity scoring, and a C# MAUI desktop app
 - 🔐 **Auth Platform** — OAuth2, JWT, MFA, and SDKs for Python and C#
 - 📊 **Real-Time Analytics Pipeline** — Kafka, ClickHouse, and Grafana deployed on Digital Ocean
+- 🤖 **Ironman Mask** - Python, C, C++, Arduino
 
 ## Interests
 
