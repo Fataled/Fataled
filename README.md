@@ -1,43 +1,181 @@
-# Hey, I'm Brume (Fataled) 👋
+# Hi, I'm Fataled
 
-I'm a student developer who likes building things that are actually useful. I enjoy working across the full stack — from low-level audio processing to cloud infrastructure.
+Backend and systems-focused developer building ML-powered platforms, distributed infrastructure, and high-performance backend systems.
 
-## What I'm Working On
+My work focuses on the intersection of:
 
-- 〰️ **Resonance** — An upscale of my song recommendation system to become a multi modal recommendation system written in kotlin, python and typescript
-- 🤖 **Ironman Mask** — Python, C, C++, Arduino
-
-## What I have done
-
-- 🎵 **Song Recommendation System** — audio feature extraction with Essentia, similarity scoring, and a C# MAUI desktop app
-- 🔐 **Auth Platform** — OAuth2, JWT, MFA, and SDKs for Python and C#
-- 📊 **Real-Time Analytics Pipeline** — Kafka, ClickHouse, and Grafana deployed on Digital Ocean
-- 🎮 **Wynnstacks** — Minecraft mod written in java designed to raycast, analyze and clean data then cleanly display to a hud on the screen
-
-## Interests
-
-- 🎮 Games
-- 🎵 Music
-- 🤖 Machine Learning
-- 😴 Sleeping
-
-## Tech I Use
-
-**Languages:** Python, C#, SQL, C, Java, Kotlin, 
-
-**Backend:** FastAPI, SQLAlchemy, Authlib, Kafka
-
-**Infrastructure:** Docker, Digital Ocean, Redis, PostgreSQL, ClickHouse
-
-**Other:** .NET MAUI, Essentia, Grafana
-
-## Fun Facts
-
-- 🏆 Hyper competitive — if I'm doing something, I'm trying to win
-- 🔁 When I get into something, I go all in — full hyperfixation mode
-- 🎯 Perfectionist — if it's not done right, it's not done
-- 😴 Sleep is a hobby and I stand by that
+* Distributed systems
+* Recommendation systems
+* Media intelligence
+* ML infrastructure
+* Real-time analytics
+* Backend architecture
 
 ---
 
-*Always building, sometimes sleeping.*
+## Current Focus
+
+### Resonate Intelligence
+
+A multimodal media intelligence and recommendation platform.
+
+Core areas:
+
+* Audio feature extraction
+* Semantic embeddings
+* Recommendation systems
+* Vector similarity search
+* Real-time processing pipelines
+* Scalable backend infrastructure
+
+Architecture includes:
+
+* Kotlin backend services
+* Python ML workers
+* Kafka event streaming
+* PostgreSQL
+* Vector databases
+* Docker-based deployment
+
+---
+
+## Tech Stack
+
+### Languages
+
+* Kotlin
+* Python
+* C#
+* TypeScript
+* Java
+* SQL
+* C/C++
+
+### Backend & Infrastructure
+
+* FastAPI
+* Spring Boot
+* Kafka
+* Docker
+* PostgreSQL
+* ClickHouse
+* Redis
+* RabbitMQ
+
+### ML & Data
+
+* PyTorch
+* Transformers
+* librosa
+* Essentia
+* scikit-learn
+* Vector embeddings
+* Cosine similarity systems
+
+### Frontend
+
+* React
+* MAUI
+* REST APIs
+
+---
+
+## Featured Projects
+
+## Resonate Intelligence
+
+Multimodal media recommendation and analysis platform.
+
+Features:
+
+* Audio feature extraction
+* Semantic similarity search
+* ML-powered classification
+* Recommendation ranking systems
+* Real-time processing architecture
+* Distributed worker pipelines
+
+Tech:
+Python • Kotlin • Kafka • PostgreSQL • Docker • Vector Search
+
+---
+
+## OAuth Infrastructure Platform
+
+Authentication and identity infrastructure platform.
+
+Features:
+
+* JWT authentication
+* MFA/TOTP
+* OIDC integration
+* Role-based access control
+* Admin management APIs
+* SDK support
+
+Tech:
+FastAPI • PostgreSQL • Docker • C# SDK • Python SDK
+
+---
+
+## Real-Time Analytics Pipeline
+
+Distributed analytics processing system.
+
+Features:
+
+* High-throughput event ingestion
+* Kafka streaming architecture
+* ClickHouse analytics storage
+* Dashboard-ready aggregation pipelines
+* Scalable event processing
+
+Tech:
+Kafka • ClickHouse • FastAPI • Docker
+
+---
+
+## Interests
+
+Currently exploring:
+
+* Recommendation systems
+* Vector databases
+* ML inference optimization
+* Distributed architectures
+* Search and ranking systems
+* Real-time event processing
+* Media intelligence systems
+* Backend scalability
+
+---
+
+## Development Environment
+
+Primary environment:
+
+* Arch Linux
+* Hyprland
+* Neovim
+* Kitty
+* Zsh
+
+---
+
+## Philosophy
+
+I enjoy building systems that combine:
+
+* performance
+* scalability
+* ML capabilities
+* clean architecture
+* production-oriented design
+
+Focused on building software that feels closer to real platforms than isolated projects.
+
+---
+
+## Connect
+
+* GitHub: [https://github.com/Fataled](https://github.com/Fataled)
