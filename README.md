@@ -82,7 +82,7 @@ Architecture includes:
 
 ## Featured Projects
 
-## Resonate Intelligence
+## Resonance
 
 Multimodal media recommendation and analysis platform.
 
