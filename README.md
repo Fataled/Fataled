@@ -4,10 +4,15 @@ I'm a student developer who likes building things that are actually useful. I en
 
 ## What I'm Working On
 
+- 〰️ **Resonance** — An upscale of my song recommendation system to become a multi modal recommendation system written in kotlin, python and typescript
+- 🤖 **Ironman Mask** — Python, C, C++, Arduino
+
+## What I have done
+
 - 🎵 **Song Recommendation System** — audio feature extraction with Essentia, similarity scoring, and a C# MAUI desktop app
 - 🔐 **Auth Platform** — OAuth2, JWT, MFA, and SDKs for Python and C#
 - 📊 **Real-Time Analytics Pipeline** — Kafka, ClickHouse, and Grafana deployed on Digital Ocean
-- 🤖 **Ironman Mask** — Python, C, C++, Arduino
+- 🎮 **Wynnstacks** — Minecraft mod written in java designed to raycast, analyze and clean data then cleanly display to a hud on the screen
 
 ## Interests
 
@@ -18,7 +23,7 @@ I'm a student developer who likes building things that are actually useful. I en
 
 ## Tech I Use
 
-**Languages:** Python, C#, SQL
+**Languages:** Python, C#, SQL, C, Java, Kotlin, 
 
 **Backend:** FastAPI, SQLAlchemy, Authlib, Kafka
 
