@@ -15,7 +15,7 @@ My work focuses on the intersection of:
 
 ## Current Focus
 
-### Resonate Intelligence
+### Resonate
 
 A multimodal media intelligence and recommendation platform.
 
