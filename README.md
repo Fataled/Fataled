@@ -30,4 +30,4 @@ Building a PyTorch-style neural network library in C to learn memory management.
 
 ## Contact
 
-[email] · [LinkedIn]
+[brumeako@gmail.com] · 
