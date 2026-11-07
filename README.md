@@ -1,181 +1,33 @@
-# Hi, I'm Fataled
+# Hi, I'm Oghenebrume 👋
 
-Backend and systems-focused developer building ML-powered platforms, distributed infrastructure, and high-performance backend systems.
+Second-year CS student at Sheridan College building ML-backed backend systems.
+Looking for a [term] co-op in backend / ML infrastructure.
 
-My work focuses on the intersection of:
+## Projects
 
-* Distributed systems
-* Recommendation systems
-* Media intelligence
-* ML infrastructure
-* Real-time analytics
-* Backend architecture
+- **[Resonate](https://github.com/Fataled/Resonate)**: music recommendation
+  platform (in progress). Spring Boot/Kotlin backend with Kafka and Redis, and
+  a planned two-tower model initialized from Essentia audio features.
+- **[Wait, Is That BMO](https://github.com/Fataled/Wait-is-that-BMO)**: local
+  voice assistant with wake word detection, Whisper STT, a local LLM via
+  Ollama, and RPC-based tool calling. Python, FastAPI, Docker.
+- **[OAuthSDK](https://github.com/Fataled/OAuthSDK)** and
+  **[AnalyticsPipelineSDK](https://github.com/Fataled/AnalyticsPipelineSDK)**:
+  JWT/MFA/OIDC auth service with C# and Python SDKs, plus a Kafka → ClickHouse
+  event pipeline.
+- **[Wynnstacks](https://github.com/Fataled/Wynnstacks)**: published Fabric
+  mod for Wynncraft (Java).
 
----
+## Stack
 
-## Current Focus
+**Languages:** Python, Kotlin, C#, Java, SQL, C (learning)
+**Backend:** FastAPI, Spring Boot, Kafka, Redis, ClickHouse, Docker
+**ML:** PyTorch, Essentia, Whisper, Ollama
 
-### Resonate
+## Currently
 
-A multimodal media intelligence and recommendation platform.
+Building a PyTorch-style neural network library in C to learn memory management.
 
-Core areas:
+## Contact
 
-* Audio feature extraction
-* Semantic embeddings
-* Recommendation systems
-* Vector similarity search
-* Real-time processing pipelines
-* Scalable backend infrastructure
-
-Architecture includes:
-
-* Kotlin backend services
-* Python ML workers
-* Kafka event streaming
-* PostgreSQL
-* Vector databases
-* Docker-based deployment
-
----
-
-## Tech Stack
-
-### Languages
-
-* Kotlin
-* Python
-* C#
-* TypeScript
-* Java
-* SQL
-* C/C++
-
-### Backend & Infrastructure
-
-* FastAPI
-* Spring Boot
-* Kafka
-* Docker
-* PostgreSQL
-* ClickHouse
-* Redis
-* RabbitMQ
-
-### ML & Data
-
-* PyTorch
-* Transformers
-* librosa
-* Essentia
-* scikit-learn
-* Vector embeddings
-* Cosine similarity systems
-
-### Frontend
-
-* React
-* MAUI
-* REST APIs
-
----
-
-## Featured Projects
-
-## Resonance
-
-Multimodal media recommendation and analysis platform.
-
-Features:
-
-* Audio feature extraction
-* Semantic similarity search
-* ML-powered classification
-* Recommendation ranking systems
-* Real-time processing architecture
-* Distributed worker pipelines
-
-Tech:
-Python • Kotlin • Kafka • PostgreSQL • Docker • Vector Search
-
----
-
-## OAuth Infrastructure Platform
-
-Authentication and identity infrastructure platform.
-
-Features:
-
-* JWT authentication
-* MFA/TOTP
-* OIDC integration
-* Role-based access control
-* Admin management APIs
-* SDK support
-
-Tech:
-FastAPI • PostgreSQL • Docker • C# SDK • Python SDK
-
----
-
-## Real-Time Analytics Pipeline
-
-Distributed analytics processing system.
-
-Features:
-
-* High-throughput event ingestion
-* Kafka streaming architecture
-* ClickHouse analytics storage
-* Dashboard-ready aggregation pipelines
-* Scalable event processing
-
-Tech:
-Kafka • ClickHouse • FastAPI • Docker
-
----
-
-## Interests
-
-Currently exploring:
-
-* Recommendation systems
-* Vector databases
-* ML inference optimization
-* Distributed architectures
-* Search and ranking systems
-* Real-time event processing
-* Media intelligence systems
-* Backend scalability
-
----
-
-## Development Environment
-
-Primary environment:
-
-* Arch Linux
-* Hyprland
-* Neovim
-* Kitty
-* Zsh
-
----
-
-## Philosophy
-
-I enjoy building systems that combine:
-
-* performance
-* scalability
-* ML capabilities
-* clean architecture
-* production-oriented design
-
-Focused on building software that feels closer to real platforms than isolated projects.
-
----
-
-## Connect
-
-* GitHub: [https://github.com/Fataled](https://github.com/Fataled)
+[email] · [LinkedIn]
